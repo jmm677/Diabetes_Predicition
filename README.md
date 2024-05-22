@@ -1,0 +1,1 @@
+I utilized the CDC Diabetes Health Indicators dataset from UC Irvine Machine Learning Repository to create machine learning models used to predicit diabetes status. This analysis includes data preprocessing, hyperparmeters tuning, and mutliple models such as SVM, Logisic regression, and Nueral Networks. 
